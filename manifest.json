@@ -1,0 +1,25 @@
+{
+  "name": "You Deserve This, Hadeer \u2014 Week 6",
+  "short_name": "Week 6 FREE",
+  "description": "Hadeer's Vacation Week 6 \u00b7 Rest \u00b7 Joy \u00b7 MFVA \u00b7 Credit Case",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#052e16",
+  "theme_color": "#065f46",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "./"
+}
